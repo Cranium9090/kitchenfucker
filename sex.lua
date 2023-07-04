@@ -1,3 +1,4 @@
+_G.cookroomfucker = true
 local lp = game:GetService("Players").LocalPlayer
 local remote
 local ffc = game.FindFirstChild
